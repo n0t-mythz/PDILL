@@ -7,6 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=B8lIPl7erbU&ab_channel=Faye",
     "percentToQualify": "100",
     "password": "-",
+    "benchmark": "True",
     "records": [
     ]
 }
